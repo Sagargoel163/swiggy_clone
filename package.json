@@ -1,0 +1,25 @@
+{
+  "name": "swiggy",
+  "version": "1.0.0",
+  "description": "this is my swiggy",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Sagargoel163/swiggy_clone.git)"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "sagar",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.13.2"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
